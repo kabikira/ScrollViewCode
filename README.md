@@ -1,5 +1,6 @@
 # ScrollViewCode
-UIScrollViewをコードで実装のサンプル
+UIScrollViewをコードで実装のサンプル  
+https://qiita.com/Imael/items/eab39af232aeb6389a0b
 
 # はじめに
 最近UIKitを学び始めた初心者です。  
